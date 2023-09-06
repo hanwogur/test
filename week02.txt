@@ -3,6 +3,8 @@ week 02
   ls, ls -a, ls -l, ls -la
   pwd, cd, cd.., git, touch week01.txt
   vi week01.txt, vi week02.txt
+  cat README.md 
+  echo"~~~~~~~"
 
 - git commands
   git init
@@ -11,3 +13,6 @@ week 02
   git config --global user.email "wogur110507@gmail.com"
   git config --global user.name "hanwogur"
   git commit -m "v0"
+  git log
+  git checkout hashcode
+  git checkout -
