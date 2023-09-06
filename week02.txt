@@ -4,7 +4,7 @@ week 02
   pwd, cd, cd.., git, touch week01.txt
   vi week01.txt, vi week02.txt
   cat README.md 
-  echo"~~~~~~~"
+  echo"~~~~~~~" >> README.md
 
 - git commands
   git init
@@ -16,3 +16,6 @@ week 02
   git log
   git checkout hashcode
   git checkout -
+  git branch -M main
+  git remote add origin https://github.com/hanwogur/test.git
+  git push -u origin main
